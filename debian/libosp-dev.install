@@ -1,0 +1,3 @@
+debian/tmp/usr/include/OpenSP usr/include
+debian/tmp/usr/lib/libosp.a usr/lib
+debian/tmp/usr/lib/libosp.so usr/lib

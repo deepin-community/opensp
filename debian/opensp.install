@@ -1,0 +1,7 @@
+debian/tmp/usr/bin usr
+debian/tmp/usr/share/OpenSP/catalog usr/share/sgml/opensp/unicode
+debian/tmp/usr/share/OpenSP/demo.sgm usr/share/sgml/opensp/unicode
+debian/tmp/usr/share/OpenSP/gensyntax.pl usr/share/sgml/opensp/unicode
+debian/tmp/usr/share/OpenSP/unicode.syn usr/share/sgml/opensp/unicode
+debian/tmp/usr/share/OpenSP/unicode.decl usr/share/sgml/opensp/unicode
+debian/tmp/usr/share/OpenSP/opensp-implied.dcl usr/share/sgml/declaration
